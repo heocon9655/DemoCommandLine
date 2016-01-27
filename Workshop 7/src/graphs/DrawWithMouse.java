@@ -13,7 +13,7 @@ import javax.swing.JColorChooser;
 
 /**
  * just testing github here
- * just testing git command line here
+ * just testing git edit
  * @author Hung
  */
 public class DrawWithMouse extends javax.swing.JFrame {
